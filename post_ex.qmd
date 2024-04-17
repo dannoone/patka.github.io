@@ -1,0 +1,11 @@
+---
+title: "Welcome Post"
+author: 'Your Name'
+subtitle: 'An overview of the post goes here'
+categories: [Mental Health, Coping Strategies, COPE]
+image: 'brain.jfif'
+---
+
+# Welcome to my blog!!
+
+Here I will be posting things I'm interested in!!! 

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "Patrycja Maja" 
+  navbar:
+    pinned: true
+    left: 
+      - text: 'Mental Health Coping Strategies'
+        href: placeholder_1.qmd
+      - text: 'About COPE'
+        href: placeholder_2.qmd
+      - text: 'My Blog'
+        href: Blog_Listing.qmd
+  page-footer: "Powered with GitHub, Quarto and Rstudio<br> Your Name, 2024"
+  
+format: 
+  html: 
+    css: styles.css
+    toc: false
+  

@@ -1,0 +1,6 @@
+---
+title: "About"
+output:
+  quarto::quarto_html_document:
+    yaml: quarto_config.yaml
+---

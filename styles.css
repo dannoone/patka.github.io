@@ -1,0 +1,24 @@
+.navbar-brand,
+.navbar-nav .nav-link {
+    font-family: "Pristina Regular", Sans-Serif;
+    font-size: 35px;
+    color: #649974 !important;
+    font-weight: bold !important;
+    margin-right: 40px;
+}
+
+.navbar {
+    background-color: #F9DDFF;
+}
+
+body {
+  background-color: #EDFFEC;
+  color: #649974;
+  background-image: url('floral_.webp');
+  background-size: 100%;
+  background-position: left center;
+}
+
+footer {
+  background-color: #F9DDFF;
+}
